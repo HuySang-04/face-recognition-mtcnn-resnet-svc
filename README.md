@@ -1,4 +1,5 @@
 # face-recognition-mtcnn-resnet-svc
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuySang-04&repo=face-recognition-mtcnn-resnet-svc&theme=radical)](https://github.com/HuySang-04/face-recognition-mtcnn-resnet-svc)
 
 ## Request
 data/              
