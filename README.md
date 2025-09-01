@@ -25,7 +25,7 @@ data/
         ├── B_2.jpg
         └── ...
 
-Python: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+Python: 3.12.3
 OpenCV: 4.12.0
 PyTorch: 2.2.2+cu121
 Joblib: 1.5.1
