@@ -1,5 +1,4 @@
 # face-recognition-mtcnn-resnet-svc
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuySang-04&repo=face-recognition-mtcnn-resnet-svc&theme=radical)](https://github.com/HuySang-04/face-recognition-mtcnn-resnet-svc)
 
 ## Request
 data/              
@@ -55,3 +54,6 @@ Facenet-pytorch: 2.6.0
 ![img_11](out_val/img_11.jpg)
 ![img_12](out_val/img_12.jpg)
 ![img_13](out_val/img_13.jpg)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuySang-04&repo=face-recognition-mtcnn-resnet-svc&theme=radical)](https://github.com/HuySang-04/face-recognition-mtcnn-resnet-svc)
+
